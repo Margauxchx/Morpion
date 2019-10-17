@@ -6,7 +6,7 @@
 <p> Pour jouer à ce jeu il sera nécessaire :<br>
     - D'être 2 joueurs<br>
     - D'avoir Ruby version 2.5.1<br>
-    - Lancer le programme app.rb</p>
+    - Lancer le programme Game.rb dans le lib</p>
     
 <h2> Le principe </h2>
   
