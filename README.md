@@ -1,16 +1,15 @@
-Projet THP : Mini jeu POO
+<h1> Projet THP : Tic tac toe game </h1> 
+<h4> ****** AKA le jeu du morpion ****** </h4>
 
-Création de 3 jeux
+<h2> Pour jouer </h2>
 
-Jeu n°1 (player.rb + app.rb)
-
-Ce jeu est un duel entre deux bots. Ils ont chacuns 10 points de vie. L'un après l'autre, ils se donnent des coups, les dégâts allant de 1 à 6 aléatoirement. La partie est finie lorsque un des deux joueurs n'a plus de points de vie.
-
-Jeu n°2 (player.rb + app2.rb)
-
-Semblable au premier jeu mais permet de rajouter un membre que tu controleras pendant le combat. Tu as 100 points de vie et une arme et à chaque tour, tu aura la possibilité d'attaquer un de tes deux enemies, regagner de la vie ou améliorer ton arme. Ensuite, les bots attaquent en retour. La partie se finit lorsque l'un des bots ou toi même n'avez plus de points de vie
-
-Jeu n°3 (game.rb + app3.rb)
-
-C'est le même jeu mais des bots ce sont rajoutés à la bagarre. Le principe reste le même, bonne chance ! 
-
+<p> Pour jouer à ce jeu il sera nécessaire :<br>
+    - D'être 2 joueurs<br>
+    - D'avoir Ruby version 2.5.1</p>
+    
+<h2> Le principe </h2>
+  
+<p> Une grille de 3x3 va s'afficher, le but pour chaque joueur étant d'aligner horizontalement, verticalement ou en diagonal, 3 signes (x ou o selon le joueur).<br>
+  La partie se finit lorsque l'un des deux joueurs à aligné ses 3 signes ou lorsque la grille est remplie sans qu'aucun des joueurs n'ait réussi à faire un alignement </p>
+  
+  <p> Bon jeu ! </p>
